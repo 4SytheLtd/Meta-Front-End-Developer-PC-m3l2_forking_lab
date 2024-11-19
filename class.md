@@ -160,6 +160,8 @@ Read the instructions of this file in the README.md
   - [Sanjay] Back-End-Development
   - 
   - [Solnrned] Version Control
+ 
+  - [Shane Forsythe] (https://github.com/4SytheLtd) Meta React Native / Meta Front End Developer - IA, United States
 
 - ### **T**
   - [Temiloluwa Odunfa](https://github.com/tizreal) Version Control
